@@ -1,0 +1,15 @@
+#frame{
+    width: 1224px;
+    margin-left: 280px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    /*边框*/
+    border: #000000 2px solid;
+    background-color: #f8fafb;
+    border-radius: 2px;
+    /*浮动--往左飘*/
+    float: left;
+}
+*{
+    background-color: #f8fafb;
+}
